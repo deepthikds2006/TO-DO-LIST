@@ -27,10 +27,9 @@ TO-DO-LIST
 2. Open index.html in browser
 
 ## 🌐 Live Demo
-(Add GitHub Pages link here after deployment)
+https://deepthikds2006.github.io/TO-DO-LIST/
 
-## 📸 Screenshot
-(Add screenshot image here)
+
 
 ## 📌 Future Improvements
 - Save tasks using localStorage
